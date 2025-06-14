@@ -16,4 +16,4 @@ The IP2312 charging IC manages the charging process of the 18650 cells, ensuring
 The power bank includes simple charge indicators showing charging in process and completion, though it currently lacks device charging or battery state indicators, maintaining a minimalist design focused on core functionality. This DIY power bank is ideal for enthusiasts seeking a custom, efficient, and compact portable power solution.
 
 
-![pcb](pcb/kicad/artifacts/img_v001.png)
+![pcb](pcb/kicad/artifacts/img_v001a.png)
